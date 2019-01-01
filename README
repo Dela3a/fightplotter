@@ -1,0 +1,14 @@
+This code was written by Bensaada Abdel Kamal
+If you have any suggestion to improve the code i'd be happy
+email: abdelkamalbensaada@gmail.com
+
+The code basically runs battles between your Hero and a Monster and plots the winrate using matplotlib
+each one has 4 attributes (Atk, critacal chance, critical damage, health)
+the 1st set of 4 text boxes define: Atk, CritC, CritDmg, Health for the Hero
+the 2nd set of 4 text boxes define: Atk, CritC, CritDmg, Health for the Monster
+the last set of boxes sets the simualtion arguments
+click on the start simualtion button start the calculations
+
+The project depends on:
+PyGobject
+matplotlib
